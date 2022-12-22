@@ -5,7 +5,7 @@ metadata:
   annotations:
     backstage.io/kubernetes-id: bridge-deployment
   name: bridge-deployment
-    tags:
+  tags:
     - java
 spec:
   lifecycle: production
